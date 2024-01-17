@@ -1,0 +1,7 @@
+desktop.ini
+__pycache__
+*.pdf
+*.log
+*.spec
+build
+dist
